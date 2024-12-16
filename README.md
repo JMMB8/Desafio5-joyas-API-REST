@@ -13,5 +13,6 @@
 
 #URL ejemplos:
 
--localhost:3000/joyas?limits=3&page=2&order_by=stock_ASC
--http://localhost:3000/joyas/ﬁltros?precio_min=25000&precio_max=30000&categoria =aros&metal=plata
+1.-http://localhost:3000/joyas?limits=3&page=2&order_by=stock_ASC
+
+2.-http://localhost:3000/joyas/ﬁltros?precio_min=25000&precio_max=30000&categoria =aros&metal=plata
